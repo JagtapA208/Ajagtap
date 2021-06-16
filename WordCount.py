@@ -6,7 +6,7 @@ text = text.replace(',', '')
 
 List = text.split()
 
-# print(L)
+
 Set = set(List)
 dic = {}
 
